@@ -2,7 +2,7 @@
 
 pipeline {
     agent {
-        label 'default-agent-us'
+        label 'default-agent'
     }
     options {
         timestamps ()
